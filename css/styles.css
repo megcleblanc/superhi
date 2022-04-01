@@ -1,0 +1,25 @@
+/* Import font */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  line-height: 1.5em;
+
+  padding: 40px;
+}
+div {
+  width: 70vw;
+}
+
+p {
+  margin-top: 40px;
+}
+
+.special {
+  font-style: italic;
+}
+
+.project-list {
+  margin-top: 40px;
+}
