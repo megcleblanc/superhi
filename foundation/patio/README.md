@@ -1,4 +1,4 @@
-# Sally Hart
+# Patio
 
 This project was completed along with the course videos.
 
